@@ -48,6 +48,8 @@ Il fenomeno del _back-scattering_ è stato ampiamente studiato da diversi autori
 
 L’analisi che segue si riferisce ad una singola misura impulsiva registrata ad Epidauro a teatro vuoto impiegando un petardo come sorgente sonora, un microfono omnidirezionale ed un registratore digitale per il salvataggio dell’evento; la misura è stata eseguita dal Prof. Angelo Farina (e collaboratori) ed è pubblicamente disponibile sul web all'URL [http://www.youtube.com/watch?feature=player_embedded&v=OSoYEP5NRAs](http://www.youtube.com/watch?feature=player_embedded&v=OSoYEP5NRAs).
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OSoYEP5NRAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 La posizione della sorgente sonora (S) e del ricevitore (R) sono indicate nella figura 3.5 di sinistra, mentre a destra è mostrata la risposta all’impulso realmente misurata nelle posizioni indicate e oggetto della presente analisi. Si nota un impulso molto ricco di riflessioni e piuttosto prolungato nel tempo che determina una riverberazione relativamente lunga per un teatro all’aperto e privo della scena come questo.
 
 ![Fig. 4.4 Sorgente (S), ricevitore (R) e risposta all'impulso misurata](../Media/img/010.png "Fig. 4.4 Sorgente (S), ricevitore (R) e risposta all'impulso misurata")
