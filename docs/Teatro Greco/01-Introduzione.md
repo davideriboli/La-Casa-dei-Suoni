@@ -9,4 +9,5 @@ Tuttavia ancora oggi, quando si affronta l’argomento, il nostro giudizio paga 
 Per avere un’idea della capillare diffusione di questi teatri, possiamo riferirci al censimento – tuttora in corso – proposto dall’associazione culturale [Engramma](https://engramma.it), c/o IUAV di Venezia che propone un'indicizzazione degli antichi edifici teatrali greci e romani (teatri e _odeia_) del bacino del Mediterraneo e delle province dell'impero romano, documentati o noti attraverso fonti dirette e indirette.
 
 ![Fig. 1.1 Teatri e odeon greci e romani, da Engramma, Censimento dei Teatri e Odeia greci e romani](../Media/img/001.png "Fig. 1.1 Teatri e odeon greci e romani, da Engramma, Censimento dei Teatri e Odeia greci e romani")
+
 Fig. 1.1 Teatri e odeon greci e romani, da [Engramma, Censimento dei Teatri e Odeia greci e romani](http://www.engramma.it/eOS/index.php?id_articolo=385)
