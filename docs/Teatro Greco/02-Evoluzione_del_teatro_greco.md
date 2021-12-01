@@ -18,7 +18,7 @@ Riguardo i vantaggi acustici è singolare osservare che proprio nel teatro trape
 
 La figura 1.2 compara in modo molto schematico l’andamento delle riflessioni generate da una sorgente sonora collocata all’interno dell’orchestra: nella pianta trapezoidale (una ricostruzione dell’antico teatro di Damocopo a Siracusa) tutte le riflessioni laterali prodotte dalle alzate dei gradini sono orientate in favore degli spettatori e non tornano indietro verso la sorgente di emissione mentre una generica pianta semicircolare produce riflessioni molto ritardate che, sommandosi a quelle della scena, innescano fenomeni di eco che compromettono l’intelligibilità del segnale.
 
-![Fig 1.2 Pianta trapeziodale e semicircolare](../Media/img/003.jpg "Fig 1.2 Pianta trapeziodale e semicircolare")
+![Fig 1.2 Pianta trapezoidale e semicircolare](../Media/img/003.jpg "Fig 1.2 Pianta trapezoidale e semicircolare")
 
 Tuttavia la forma semicircolare prenderà il sopravvento e con i successivi teatri in pietra, divenuti stabili e sicuri, si avvia il rapido sviluppo sia dell’edificio teatrale sia della scrittura di scena che giungerà alla completa maturità con drammaturghi come Eschilo, Sofocle ed Euripide.
 
@@ -26,11 +26,11 @@ Siamo intorno al V secolo a.C. ed è proprio in questo periodo che il teatro gre
 
 La parte superiore della scena (_episkenion_) ospita le “macchine” per gli effetti scenici: piattaforme girevoli (_ekkuklema_), gru e carrucole per sollevare gli attori (_mechané_) ed anche le macchine per gli effetti sonori come la “macchina dei tuoni” (_brontèion_).
 
-«Ho davvero paura, macchinista, fa' attenzione!» dice Trigeo prima di librarsi in aria sollevato dalla “mechané” nella _Pace_ di Aristofane.
+«Ho davvero paura, macchinista, fa' attenzione!» dice Trigeo prima di librarsi in aria sollevato dalla _mechané_ nella _Pace_ di Aristofane.
 
 Il teatro greco dell’età classica è così compiuto e _“nel momento in cui la_ _skené_ _divenne una costruzione elaborata, la regola convenzionale del palazzo per la tragedia si affermò pienamente e così si trasmise come forma da imitare agli autori drammatici del Rinascimento”_[^4].
 
-La figura 1.3 mostra la ricostruzione ipotetica del Teatro di Dioniso di Atene come poteva apparire nel V secolo a.C. ai tempi di Pericle. Il disegno è stato ricavato sulla base della ricostruzione di  HC Baldry (_Le théâtre tragique des Grecs_), Paul Demont & Anne Lebeau (_Introduction au théâtre grec antique_).
+La figura 1.3 mostra la ricostruzione ipotetica del Teatro di Dioniso di Atene come poteva apparire nel V secolo a.C. ai tempi di Pericle. Il disegno è stato ricavato sulla base della ricostruzione di H. C. Baldry (_Le théâtre tragique des Grecs_), Paul Demont e Anne Lebeau (_Introduction au théâtre grec antique_).
 
 Situato presso l'acropoli di Atene, fu il teatro più importante del mondo greco nel V e IV secolo a.C. e venne utilizzato dai più importanti autori greci (Eschilo, Sofocle ed Euripide per la tragedia, Aristofane e Menandro per la commedia) per mettere in scena le loro opere.
 
