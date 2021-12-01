@@ -1,5 +1,3 @@
-### 1.1 EVOLUZIONE DEL TEATRO GRECO
-
 I primi edifici teatrali del mondo greco che conosciamo erano strutture in legno ed avevano una forma trapezoidale – in diversi casi anche rettangolare – che circondava il luogo della danza chiamato “orchestra” (dal verbo _orchéomai_, danzare) mentre la forma della cavea (_théatron_) e la relativa disposizione del pubblico, erano certamente definite dalle naturali linee visuali ed acustiche, tracciate per accomodare gli spettatori in posizioni ravvicinate all’azione.
 
 In alcune zone periferiche dell’Attica sono stati rinvenuti resti di teatri che presentano un’orchestra rettangolare o trapezoidale, il più antico dei quali è il teatro di Thorikos, antecedente il V° secolo a.C.

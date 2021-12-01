@@ -1,5 +1,3 @@
-### 2.1 IL PUBBLICO A TEATRO
-
 Al di là del mito - ancora oggi molto diffuso - che ha sempre considerato questi teatri degli autentici gioielli di perfezione acustica, gli studiosi sanno bene che in questi grandi edifici la voce doveva per forza di cose risultare molto indebolita sia per le considerevoli distanze in gioco, sia per l’assorbimento acustico generato dalla presenza di migliaia di persone nonché dal rumore antropico da esse prodotto.
 
 Per comprendere al meglio l’argomento, almeno per gli occhi e l’udito dell’uomo moderno, è necessario riferirsi a quello che anticamente poteva ritenersi una “buona percezione acustica” nonché ad una forma di spettacolo - la tragedia in particolare - che non richiedeva una comprensione del messaggio sonoro così come la intendiamo oggi: le tragedie dell’età classica non erano testi destinati alla lettura, ma alla _rappresentazione_ nel senso più ampio e _spettacolare_ del termine.
