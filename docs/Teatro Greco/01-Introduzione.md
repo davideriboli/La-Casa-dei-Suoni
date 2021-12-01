@@ -10,4 +10,4 @@ Per avere un’idea della capillare diffusione di questi teatri, possiamo riferi
 
 ![Fig. 1.1 Teatri e odeon greci e romani, da Engramma, Censimento dei Teatri e Odeia greci e romani](../Media/img/001.png "Fig. 1.1 Teatri e odeon greci e romani, da Engramma, Censimento dei Teatri e Odeia greci e romani")
 
-Fig. 1.1 Teatri e odeon greci e romani, da [Engramma, Censimento dei Teatri e Odeia greci e romani](http://www.engramma.it/eOS/index.php?id_articolo=385)
+_Fig. 1.1 Teatri e odeon greci e romani, da [Engramma, Censimento dei Teatri e Odeia greci e romani](http://www.engramma.it/eOS/index.php?id_articolo=385)_

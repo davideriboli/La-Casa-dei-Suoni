@@ -19,4 +19,4 @@ Sulla base delle informazioni disponibili gli esperti in acustica hanno formulat
 Così come si usa fare per le ipotesi archeologiche o per gli studi sulla struttura formale della tragedia greca, anche per l’acustica di questi teatri è necessario un approccio analitico approfondito e contestualizzato che, nonostante tutte le incertezze del caso, sia possibilmente scevro da giudizi precostituiti.
 
 [^1]: G. Guidorizzi, _Introduzione al teatro greco_.
-[^2]: G. C. Izenour, _Theater Design_, 1977 McGraw-Hill.
+[^2]: G. C. Izenour, _Theater Design_.

@@ -6,7 +6,7 @@ Si tratta di una struttura in pietra inizialmente non progettata per le rapprese
 
 ![Fig 1.2 Pianta del teatro di Thorikos](../Media/img/002.png "Fig 1.2 Pianta del teatro di Thorikos")
 
-Fig. 1.2 Pianta del teatro di Thorikos[^2]
+_Fig. 1.2 Pianta del teatro di Thorikos_[^2]
 
 Non abbiamo molte informazioni riguardo queste strutture – che per noi hanno solo una valenza storica – tuttavia abbiamo notizie di alcuni crolli che hanno reso necessaria la costruzione dei teatri in pietra che conosciamo oggi; pare infatti che durante un agone tragico che vedeva concorrere tra gli altri anche Eschilo, le tribune in legno del primo Teatro di Dioniso (ma secondo alcuni si trattava dell’agorà di Atene adibita a spazio teatrale) siano crollate causando molte vittime.
 
@@ -20,9 +20,9 @@ Riguardo i vantaggi acustici è singolare osservare che proprio nel teatro trape
 
 La figura 1.2 compara in modo molto schematico l’andamento delle riflessioni generate da una sorgente sonora collocata all’interno dell’orchestra: nella pianta trapezoidale (una ricostruzione dell’antico teatro di Damocopo a Siracusa) tutte le riflessioni laterali prodotte dalle alzate dei gradini sono orientate in favore degli spettatori e non tornano indietro verso la sorgente di emissione mentre una generica pianta semicircolare produce riflessioni molto ritardate che, sommandosi a quelle della scena, innescano fenomeni di eco che compromettono l’intelligibilità del segnale.
 
-![Fig 2.2 Pianta trapezoidale e semicircolare](../Media/img/003.jpg "Fig 2.2 Pianta trapezoidale e semicircolare")
+![Fig. 2.2 Pianta trapezoidale e semicircolare](../Media/img/003.jpg "Fig. 2.2 Pianta trapezoidale e semicircolare")
 
-Fig. 2.2 Pianta trapezoidale e semicircolare
+_Fig. 2.2 Pianta trapezoidale e semicircolare_
 
 Tuttavia la forma semicircolare prenderà il sopravvento e con i successivi teatri in pietra, divenuti stabili e sicuri, si avvia il rapido sviluppo sia dell’edificio teatrale sia della scrittura di scena che giungerà alla completa maturità con drammaturghi come Eschilo, Sofocle ed Euripide.
 
@@ -38,15 +38,15 @@ La figura 1.3 mostra la ricostruzione ipotetica del Teatro di Dioniso di Atene c
 
 Situato presso l'acropoli di Atene, fu il teatro più importante del mondo greco nel V e IV secolo a.C. e venne utilizzato dai più importanti autori greci (Eschilo, Sofocle ed Euripide per la tragedia, Aristofane e Menandro per la commedia) per mettere in scena le loro opere.
 
-![Fig 3.2 Teatro di Dioniso nel V secolo a. C., Atene (ricostruzione ipotetica)](../Media/img/004.png "Fig 3.2 Teatro di Dioniso nel V secolo a. C., Atene (ricostruzione ipotetica)")
+![Fig. 3.2 Teatro di Dioniso nel V secolo a. C., Atene (ricostruzione ipotetica)](../Media/img/004.png "Fig. 3.2 Teatro di Dioniso nel V secolo a. C., Atene (ricostruzione ipotetica)")
 
-Fig 3.2 Teatro di Dioniso nel V secolo a. C., Atene (ricostruzione ipotetica)
+_Fig. 3.2 Teatro di Dioniso nel V secolo a. C., Atene (ricostruzione ipotetica)_
 
 Anche il teatro di Epidauro nel Peloponneso, benché ellenistico e successivo a quello di Dioniso, mostra il tipico "schema greco" che sfrutta il pendio del terreno collinare, un disegno della cavea che supera il semicerchio e l’orchestra perfettamente circolare.
 
-![Fig 4.2 Teatro di Epidauro (foto di Andreas Trepte)](../Media/img/005.jpg "Fig 4.2 Teatro di Epidauro (foto di Andreas Trepte)")
+![Fig. 4.2 Teatro di Epidauro, foto di Andreas Trepte](../Media/img/005.jpg "Fig. 4.2 Teatro di Epidauro, foto di Andreas Trepte")
 
-Fig 4.2 Teatro di Epidauro (foto di Andreas Trepte)
+_Fig. 4.2 Teatro di Epidauro, foto di Andreas Trepte_
 
 In seguito quasi tutti i principali teatri greci ed ellenistici furono modificati dai romani, generalmente costruendo una scena imponente, ampliando la cavea e riducendo l’orchestra ad un semicerchio, solitamente lastricato in pietra.
 
@@ -54,9 +54,9 @@ Nel caso di Epidauro tuttavia, l’orchestra originale in terra battuta non è s
 
 Alle 34 file di gradini della cavea originaria che ospitava 6200 spettatori, nel II sec. a.C. i romani ne aggiunsero altre 21 per un totale di 55 per una capienza complessiva di circa 14.000 persone.
 
-![Fig 5.2 Teatro di Epidauro, in evidenza l'ampliamento romano della cavea](../Media/img/006.jpg "Fig 5.2 Teatro di Epidauro, in evidenza l'ampliamento romano della cavea")
+![Fig. 5.2 Teatro di Epidauro, in evidenza l'ampliamento romano della cavea](../Media/img/006.jpg "Fig. 5.2 Teatro di Epidauro, in evidenza l'ampliamento romano della cavea")
 
-Fig 5.2 Teatro di Epidauro, in evidenza l'ampliamento romano della cavea
+_Fig. 5.2 Teatro di Epidauro, in evidenza l'ampliamento romano della cavea_
 
 [^1]: H. Bulle _(NdC: mancano ulteriori riferimenti)_.
 [^2]: M. Bieber,_The History of the Greek and Roman Theater_.
