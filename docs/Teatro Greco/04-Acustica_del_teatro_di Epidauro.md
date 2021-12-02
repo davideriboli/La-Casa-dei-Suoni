@@ -106,9 +106,47 @@ Negli spettrogrammi della figura 3.9, che riportano i primi 800 ms dell’impuls
 
 A 100 ms la seconda armonica è perfettamente allineata a 425 Hz mentre, a 200 ms, si muove verso destra e vi rimane sino a 300 ms; a 400 ms tende a ritornare nella posizione iniziale mentre, a 500 ms, si muove di nuovo verso destra dove si stabilizza sino al decadimento naturale dell’energia.
 
+![_Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_](../Media/img/015.jpg "_Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_")
+
+_Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_
+
+Lo spettro della risposta impulsiva mostra quindi un’evidente transizione che possiamo meglio visualizzare in questo modo:
+
+![_Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_](../Media/img/016.jpg "_Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_")
+
+_Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_
+
+La figura 10.4 di sinistra mostra lo slittamento frequenziale nel tempo compreso tra 100 e 800 ms, ovvero quando lo spettro è ormai stabilizzato. Si nota che, oltre al riferimento impiegato in precedenza a 425 Hz, anche le altre componenti armoniche si spostano verso destra generando un udibile cambiamento di tono.
+
+La figura 10.4 di destra evidenzia invece il momento esatto della transizione temporale (cerchietti gialli) dove si osserva il movimento dello spettro verso il semitono superiore.
+
+Si noti infine il singolare livello di accuratezza (in rosso) che indica la differenza in Hz tra i due semitoni contigui, calcolata mediante la relazione _f =_ _12__√2_. Transizione che possiamo trascrivere con buona approssimazione in questo modo:
+
+![_Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._](../Media/img/017.jpg "_Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._")
+
+_Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._
+
+Il _pitch shifting_ si percepisce come una sorta di _effetto Doppler_ che, in particolari condizioni, può avere una traslazione inversa, ovvero con la frequenza che aumenta più o meno gradualmente anziché diminuire, esattamente come nel caso di Epidauro che mostra un vero e proprio cambio d’intonazione.
+
+La comprensione di questo fenomeno, assimilabile al reticolo di diffrazione ottico, è ancora oggetto di studio e non è compiutamente prevedibile con gli attuali modelli matematici di simulazione, almeno per quanto riguarda la perfetta riproducibilità audio dello _shift_ frequenziale.
+
+Diversi sono infatti i parametri coinvolti nella sua formazione, sostanzialmente riconducibili all’interazione complessa tra diffrazione e riflessione del suono. Sappiamo tuttavia che la percezione dello _shift_, la sua frequenza ed evoluzione nel tempo, dipendono anche dalla geometria e dalla periodicità degli ostacoli, dalle singole riflessioni che creano diversi tempi di ritardo, nonché dalla posizione della sorgente e del ricevitore che influenza notevolmente la maggiore o minore percezione dell’evento[^7].
+
+##### IL SISTEMA MUSICALE GRECO
+
+_Lo schema generale elaborato da Aristosseno, il cosiddetto "gran sistema perfetto" o Sistema Tèleion_ (vedi fig. 12.4) _era formato da quattro tetracordi congiunti due a due e terminanti, in basso, con una nota aggiunta (proslambanòmenos) la quale, risuonando all'ottava bassa della nota centrale, dava completezza e perfezione al sistema. Tale disposizione di suoni, che dava al tetracordo ellenico uno speciale carattere e attribuiva alla discesa del penultimo suono sull'ultimo quasi il significato di una sensibile discendente alla tonica, fu il nucleo fondamentale da cui sorse, poi, tutto il sistema musicale nazionale ellenico_[^8].
+
+  
+
+
+
+
+
 [^1]: L. Cremer, _Different Distributions of the Audience in Auditorium Acoustics_.
 [^2]: N. Barkas, N. Vardaxis, _Current operation of the ancient Greek theatres: The problem of environmental noise. The Acoustics of Ancient Theatres Conference_.
 [^3]: N. F. Declercq, C. S. A. Dekeyser, _Acoustic diffraction effects at the Hellenistic amphitheatre of Epidaurus: Seat rows responsible for the marvellous acoustics_.
 [^4]: T. Lokki, A. Southern, S. Siltanen, L. Savioja, _Studies of Epidaurus with a hybrid room acoustics modelling method. The Acoustics of Ancient Theatres Conference_.
 [^5]: A. Farnetani, N. Prodi, R. Pompoli, _Measurements of sound scattering of the steps of the cavea in ancient open air theatres. Proceedings of the International Symposium on Room Acoustics_.
-[^6]: Declercq N. F., Dekeyser C. S. A., _Acoustic diffraction effects at the Hellenistic amphitheater of Epidaurus: Seat rows responsible for the marvelous acoustics_.
+[^6]: N. F. Declercq, C. S. A. Dekeyser, _Acoustic diffraction effects at the Hellenistic amphitheater of Epidaurus: Seat rows responsible for the marvelous acoustics_.
+[^7]: D. Lubman, _Archaeological acoustic study of chirped echo from the Mayan pyramid at Chichen Itza, in the Yucatan Region of Mexico... Is this the world's oldest known sound recording?_.
+[^8]: G. Gasperini, _Enciclopedia Italiana Treccani_.
