@@ -74,7 +74,37 @@ Pertanto il massimo effetto della diffrazione si ha nelle frequenze medie, da ci
 
 Alcuni anni orsono questo fenomeno, chiamato _filtraggio del suono_, è stato notato da altri ricercatori rilevando che la dispersione del suono (_scattering_) agisce in qualche modo come un filtro passa-alto da circa 500 Hz in avanti privilegiando componenti spettrali in relazione armonica tra loro[^6]. Tuttavia si potrebbe forse definire questo fenomeno come un rinforzo di particolari frequenze, piuttosto che un vero e proprio filtraggio sonoro.
 
+##### ANALISI ARMONICA
 
+Ma osservando lo spettro con maggiore attenzione, si individuano altre singolari proprietà che possono suggerire stimolanti chiavi di lettura. Nella figura 7.4 di sinistra possiamo vedere che lo spettro è costituito da bande frequenziali che sono in stretta relazione armonica tra loro e dove possiamo identificare con facilità la fondamentale, la seconda, la terza, la quarta armonica etc., che possiamo trascrivere con buona approssimazione in notazione musicale (figura 7.4 di destra).
+
+![Fig. 7.4 Analisi spettrale e relazioni armoniche](../Media/img/013.jpg "Fig. 7.4 Analisi spettrale e relazioni armoniche")
+
+_Fig. 7.4 Analisi spettrale e relazioni armoniche_
+
+Ne risulta che lo spettro del teatro di Epidauro sembrerebbe accordato sul sistema diatonico teorizzato da Pitagora circa due secoli prima della costruzione del teatro. Questo sistema, basato sulla fondamentale relazione tra ottava e quinta giusta, è stato poi elaborato e classificato dal compositore e filosofo di prima formazione pitagorica e poi aristotelica Aristosseno da Taranto, suddividendo la musica greca per generi (diatonico, cromatico, enarmonico) ed informandoci che proprio il diatonico era il genere più antico e diffuso del tempo perché considerato come il più rispondente alle esigenze della tradizione musicale greca, al gusto ed alle tendenze delle varie popolazioni formanti la grande nazione ellenica.
+
+##### ANALISI DEL DECADIMENTO
+
+È altresì interessante osservare che lo spettro del teatro si “costruisce” progressivamente nel tempo, da circa 200 ms in avanti, per manifestarsi con chiarezza a circa 800 ms. Nella figura 8.4 è visualizzata la risposta all’impulso sezionata in tracciati di 100 ms ciascuno.
+
+A sinistra si nota che l’energia in bassa frequenza si smorza velocemente cedendo il passo alla formazione dello spettro che possiamo ritenere “compiuto” attorno a 800 ms, come si osserva nella figura di destra dove – per una migliore lettura del grafico – sono stati omessi alcuni tracciati intermedi.
+
+Quest’analisi per noi ha un doppio interesse perché anticipa un’altra peculiarità del teatro di Epidauro che sarà oggetto del prossimo argomento, il _pitch shifting_ della risposta impulsiva.
+
+![Fig. 8.4 Composizione spettrale nel dominio del tempo](../Media/img/014.png "Fig. 8.4 Composizione spettrale nel dominio del tempo")
+
+_Fig. 8.4 Composizione spettrale nel dominio del tempo_
+
+##### ANALISI DEL PITCH SHIFTING
+
+Un singolare aspetto del teatro di Epidauro non indagato in precedenza, è la variazione dell’impulso nel dominio di tempo/frequenza per effetto delle interazioni acustiche in gioco.
+
+Sezionando la risposta impulsiva in frazioni di 100 ms ciascuna, ne possiamo osservare le modifiche spettrali.
+
+Negli spettrogrammi della figura 3.9, che riportano i primi 800 ms dell’impulso, è indicata una linea a circa 425 Hz che corrisponde alla seconda armonica dello spettro analizzato in precedenza (Fig. 3.8) e che useremo come riferimento visivo per l’analisi.
+
+A 100 ms la seconda armonica è perfettamente allineata a 425 Hz mentre, a 200 ms, si muove verso destra e vi rimane sino a 300 ms; a 400 ms tende a ritornare nella posizione iniziale mentre, a 500 ms, si muove di nuovo verso destra dove si stabilizza sino al decadimento naturale dell’energia.
 
 [^1]: L. Cremer, _Different Distributions of the Audience in Auditorium Acoustics_.
 [^2]: N. Barkas, N. Vardaxis, _Current operation of the ancient Greek theatres: The problem of environmental noise. The Acoustics of Ancient Theatres Conference_.
