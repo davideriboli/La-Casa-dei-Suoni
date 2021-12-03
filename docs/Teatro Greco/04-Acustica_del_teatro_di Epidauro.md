@@ -136,11 +136,17 @@ Diversi sono infatti i parametri coinvolti nella sua formazione, sostanzialmente
 
 _Lo schema generale elaborato da Aristosseno, il cosiddetto "gran sistema perfetto" o Sistema Tèleion_ (vedi fig. 12.4) _era formato da quattro tetracordi congiunti due a due e terminanti, in basso, con una nota aggiunta (proslambanòmenos) la quale, risuonando all'ottava bassa della nota centrale, dava completezza e perfezione al sistema. Tale disposizione di suoni, che dava al tetracordo ellenico uno speciale carattere e attribuiva alla discesa del penultimo suono sull'ultimo quasi il significato di una sensibile discendente alla tonica, fu il nucleo fondamentale da cui sorse, poi, tutto il sistema musicale nazionale ellenico_[^8].
 
-  
+![_Fig. 12.4 Sistema Tèleion e analisi armonica del teatro di Epidauro._](../Media/img/018.jpg "Fig. 12.4 Sistema Tèleion e analisi armonica del teatro di Epidauro.")
 
+_Fig. 12.4 Sistema Tèleion e analisi armonica del teatro di Epidauro._
 
+Il _tèleion_ era un “sistema”, e come tale non era sempre riferito ad una notazione o ad un’altezza specifica ma poteva essere trasportato a seconda delle esigenze vocali e musicali richieste. Per questa ragione è lecito supporre che l’eventuale ”accordatura” del teatro di Epidauro non sia stata ipotizzata per il rinforzo della voce maschile (come qualche autore sostiene) ma sia il frutto di una progettualità atta a determinare una sorta di relazione armonica complessiva _acustica, architettonica e musicale_ scaturita dalle conoscenze matematiche e musicali del tempo. Comunque sia, è interessante rilevare che i rapporti del _tèleion_ trovano una singolare corrispondenza con quanto visto nell’analisi armonica del Teatro di Epidauro.
 
+##### ADDENDA[^9]
 
+Quanto esposto in questo capitolo, fu anticipato dall'autore in questo video cui ho avuto la ventura di collaborare e che pubblicammo su YouTube nel 2013.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcZiwyFiLsI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [^1]: L. Cremer, _Different Distributions of the Audience in Auditorium Acoustics_.
 [^2]: N. Barkas, N. Vardaxis, _Current operation of the ancient Greek theatres: The problem of environmental noise. The Acoustics of Ancient Theatres Conference_.
@@ -150,3 +156,4 @@ _Lo schema generale elaborato da Aristosseno, il cosiddetto "gran sistema perfet
 [^6]: N. F. Declercq, C. S. A. Dekeyser, _Acoustic diffraction effects at the Hellenistic amphitheater of Epidaurus: Seat rows responsible for the marvelous acoustics_.
 [^7]: D. Lubman, _Archaeological acoustic study of chirped echo from the Mayan pyramid at Chichen Itza, in the Yucatan Region of Mexico... Is this the world's oldest known sound recording?_.
 [^8]: G. Gasperini, _Enciclopedia Italiana Treccani_.
+[^9]: NdC: questo paragrafo è stato aggiunto al testo originale.
