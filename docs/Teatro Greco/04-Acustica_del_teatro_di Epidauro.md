@@ -148,6 +148,8 @@ Quanto esposto in questo capitolo, fu anticipato dall'autore in questo video cui
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcZiwyFiLsI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Sui medesimi temi si veda anche l'articolo, sempre a firma di Marco Facondini, _The acoustic harmony of the Epidauros Theatre: spectral and pitch shifting analysis_, pubblicato dalla Rivista Italiana di Acustica, Vol. 38, n. 2, 2014. 
+
 [^1]: L. Cremer, _Different Distributions of the Audience in Auditorium Acoustics_.
 [^2]: N. Barkas, N. Vardaxis, _Current operation of the ancient Greek theatres: The problem of environmental noise. The Acoustics of Ancient Theatres Conference_.
 [^3]: N. F. Declercq, C. S. A. Dekeyser, _Acoustic diffraction effects at the Hellenistic amphitheatre of Epidaurus: Seat rows responsible for the marvellous acoustics_.
