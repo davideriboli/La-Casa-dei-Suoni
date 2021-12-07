@@ -106,13 +106,13 @@ Negli spettrogrammi della figura 3.9, che riportano i primi 800 ms dell’impuls
 
 A 100 ms la seconda armonica è perfettamente allineata a 425 Hz mentre, a 200 ms, si muove verso destra e vi rimane sino a 300 ms; a 400 ms tende a ritornare nella posizione iniziale mentre, a 500 ms, si muove di nuovo verso destra dove si stabilizza sino al decadimento naturale dell’energia.
 
-![_Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_](../Media/img/015.jpg "_Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_")
+![_Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_](../Media/img/015.jpg "Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno")
 
 _Fig. 9.4 Risposta all'impulso sezionata a passi di 100 Ms ciascuno_
 
 Lo spettro della risposta impulsiva mostra quindi un’evidente transizione che possiamo meglio visualizzare in questo modo:
 
-![_Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_](../Media/img/016.jpg "_Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_")
+![_Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_](../Media/img/016.jpg "Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms")
 
 _Fig. 10.4 Risposta all'impulso: transizioni spettrali da 100 A 800 Ms_
 
@@ -122,7 +122,7 @@ La figura 10.4 di destra evidenzia invece il momento esatto della transizione te
 
 Si noti infine il singolare livello di accuratezza (in rosso) che indica la differenza in Hz tra i due semitoni contigui, calcolata mediante la relazione _f =_ _12__√2_. Transizione che possiamo trascrivere con buona approssimazione in questo modo:
 
-![_Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._](../Media/img/017.jpg "_Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._")
+![_Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._](../Media/img/017.jpg "Fig. 11.4 Teatro di Epidauro: pitch shifting crescente.")
 
 _Fig. 11.4 Teatro di Epidauro: pitch shifting crescente._
 
@@ -158,4 +158,4 @@ Sui medesimi temi si veda anche l'articolo, sempre a firma di Marco Facondini, _
 [^6]: N. F. Declercq, C. S. A. Dekeyser, _Acoustic diffraction effects at the Hellenistic amphitheater of Epidaurus: Seat rows responsible for the marvelous acoustics_.
 [^7]: D. Lubman, _Archaeological acoustic study of chirped echo from the Mayan pyramid at Chichen Itza, in the Yucatan Region of Mexico... Is this the world's oldest known sound recording?_.
 [^8]: G. Gasperini, _Enciclopedia Italiana Treccani_.
-[^9]: NdC: questo paragrafo è stato aggiunto al testo originale.
+[^9]: NdC: paragrafo aggiunto dal curatore al testo originale.
